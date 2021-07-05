@@ -1,2 +1,2 @@
-# CSC93001-assignment1-2019
-Document for CMP73010 Assignement 1.
+# PROG6001-assignment1
+Document for Assignement 1.
